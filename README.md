@@ -6,7 +6,7 @@ I enjoy software and database development and like learning by building things m
 
 ## 🚀 A Little About Me
 
-When I'm not working on something tech-related, I'm usually watching sci-fi movies or shows. I'm especially a fan of anything involving time travel, and *Doctor Who* is one of my favorite shows. I'm a little biased toward the Peter Capaldi and Jodie Whittaker eras. And yes, they need to bring the next season faster.
+When I'm not working on something tech-related, I'm usually watching sci-fi movies or shows. I'm especially a fan of anything involving time travel, and *Doctor Who* is one of my favorite shows.
 
 I also enjoy hiking and traveling, especially visiting national parks and getting a chance to explore somewhere I haven't been before.
 
