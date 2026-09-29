@@ -21,9 +21,7 @@ Microsoft Azure • Git • GitHub • Docker • SSMS • Visual Studio • Rid
 ## 📜 Certifications
 
 - Microsoft Certified: Azure Fundamentals (AZ-900)
-- HackerRank SQL (Intermediate)
-- HackerRank SQL (Basic)
-- HackerRank Python (Basic)
+- HackerRank SQL and Python
 
 ## 🌱 Currently Learning
 
